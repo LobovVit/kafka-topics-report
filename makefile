@@ -1,6 +1,4 @@
 .PHONY: build
-
-.PHONY: build
 build: build_w build_l build_m
 
 build_m:
